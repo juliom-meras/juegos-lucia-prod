@@ -15,12 +15,12 @@ botones enormes, sin prisas ni penalizaciones, siempre en horizontal y con un ic
 
 ## Descargar e instalar
 
-1. Descarga el APK: [`apk/Juegos_publica_v6.0.apk`](apk/Juegos_publica_v6.0.apk) (unos 70 KB).
+1. Descarga el APK: [`apk/Juegos_publica_v10.0.apk`](apk/Juegos_publica_v10.0.apk) (unos 70 KB).
 2. Ábrelo en la tablet. Android pedirá permiso para instalar apps desde esa aplicación: acéptalo.
    Si aparece un aviso de Play Protect, elige «Instalar de todos modos» (es una app sin publicar en Google Play).
 3. Aparecerán siete iconos nuevos. La primera vez, Android muestra un aviso de pantalla completa: pulsa «Entendido».
 
-Requisitos: Android 7.0 o superior. No pide ningún permiso y no necesita internet.
+Requisitos: Android 7.0 o superior. Los juegos funcionan sin internet. La app declara el permiso de red, pero en esta versión no lo usa: el botón «Actualizar» (que trae fotos y vídeos de una carpeta de Google Drive) solo está en la versión familiar, que lleva su propia carpeta configurada.
 
 **Comprobar la descarga** — huella SHA-256 del APK en [`apk/SHA256SUMS.txt`](apk/SHA256SUMS.txt) y del certificado de firma:
 `6E:94:6F:B1:86:D4:14:53:BB:B0:76:F8:78:93:F3:DA:CA:53:B0:26:C2:91:61:45:FC:28:5E:D0:E0:75:8B:7E`
